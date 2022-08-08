@@ -3,7 +3,7 @@ package Q1;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Main {
+public class App {
 public static void main(String[] args) {
 	Country c= new Country();
 //	 insertion
